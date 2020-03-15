@@ -1,0 +1,13 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/de.soenke.limit.ui"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <de.soenke.limit.ui.BudgetBar
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="#ccc"
+        android:paddingLeft="20dp"
+        android:paddingBottom="40dp"/>
+
+</merge>
